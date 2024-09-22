@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Ignore Python compiled files
+_pycache_/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+.env/
+
+
+# Ignore logs
+*.log
+
+# Ignore other files or directories (e.g., .DS_Store on Mac)
+.DS_Store
